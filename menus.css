@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.menu {
+    background-color:rgb(246, 205, 155);
+   
+}
+.menu ul {
+    text-align: center;
+}
+.menu ul li {
+    display: inline-block;
+    padding: 30px;
+    list-style-type: none;
+    
+}
+.menu ul li a{
+    text-decoration: none;
+    font-weight:bold;
+    font-size: large;
+}
+.menu ul i {
+    text-align: right;
+}
+ul li input {
+    padding: 3px;
+    border-radius: 20px;
+    width: 80px;
+}
+.btn-about a{
+    color: #fff;
+}
+.btn-about:hover{
+    background: black;
+}
+h1 {
+    text-align: center;
+    background-color:darkcyan;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color:rgb(241, 211, 211);
+}
+.menu-i{
+    background-color:rgb(33, 7, 7);
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.menu-i h1{
+    font-size: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+
+.menu-box{
+    margin: 10px;
+    padding: 16px;
+   
+}
+.menu-cart{
+    background-color:rgb(115, 175, 115);
+    width: 325px;
+    height: 480px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1.0);
+}
+
+.menu-image img{
+    width: 325px;
+    height: 200px;
+}
+.info h2{
+    width: 60%;
+    text-align: center;
+    margin: 10px auto 10px auto;
+    font-size: 25px;
+    color:darkblue;
+}
+.info p{
+    color:rgb(29, 0, 50);
+    text-align: center;
+    padding: 10PX;
+    line-height: 21px;
+
+}
+.info h3{
+    text-align: center;
+    margin-top: 10px;
+    color:rgb(99, 7, 99);
+
+}
+.menu-icon{
+    color: #00d4ff;
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
+.menu-btn a{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    background: #000;
+    padding: 8px 10px;
+    margin: 0 80px;
+    margin-top: 20px;
+}
+.menu-star {
+    color: rgb(241, 218, 83);
+    text-align: center;
+    padding-top: 10px;
+}
+
+
