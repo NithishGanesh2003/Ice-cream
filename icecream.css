@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    background-color:bisque
+    background-color:rgb(57, 19, 19)
 }
 
 
@@ -51,13 +51,82 @@ ul li input {
     border-radius: 20px;
     width: 80px;
 }
-.n img {
-    width: 100%;
+.main{
+    margin: 10px;
+    display: flex;
+    justify-content:space-evenly;
+   
 }
-.n p {
-    color:rgb(29, 52, 52);
-    font-family:cursive;
+.main-text h1{
+    margin: 0;
+    font-size: 50px; 
+    padding-left: 140px;
+    color: aqua;
+    padding-top: 20PX;
+    
+}
+.main-text h2 {
+    padding-left: 150px;
+    color:burlywood;  
+    margin-bottom: 20px;
+}
+.main-text p{
+    
+    width: 700px;
+    line-height: 2.0;
+    font-weight: bold;
     text-align: center;
+    color: rgb(200, 200, 200);
+}
+.main-t p{
+    width: 700px;
+    line-height: 2.0;
+    font-weight: bold;
+    margin-top: 200px;
+    text-align: center;
+    color: rgb(200, 200, 200);
+}
+.main-te p{
+    width: 700px;
+    line-height: 2.0;
+    font-weight: bold;
+    margin-top: 150px;
+    text-align: center;
+    color: rgb(200, 200, 200);
+
 
 }
+
+.main-i img{
+    width: 500px;
+    padding-top: 60px;
+}
+
+.main-j img{
+    width: 500px;
+    padding-top: 60px;
+
+
+}    
+.btn{
+    background: #004dff;
+    position: relative;
+    left: 550px;
+    bottom: 30px;
+    width: 150px;
+    cursor: pointer;
+    border-radius: 7px;
+    padding: 12px 25px;
+}
+.btn a{
+    color: aqua;
+    text-decoration: none;
+    margin-right: 10px;
+    
+}
+.btn a:hover{
+    text-decoration:underline;
+    font-size: 20px;
+}
+
     
