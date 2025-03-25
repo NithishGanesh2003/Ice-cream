@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    
 }
 body {
     background-color:rgb(57, 19, 19)
@@ -108,25 +109,77 @@ ul li input {
 
 
 }    
-.btn{
-    background: #004dff;
-    position: relative;
-    left: 550px;
-    bottom: 30px;
-    width: 150px;
-    cursor: pointer;
-    border-radius: 7px;
-    padding: 12px 25px;
-}
-.btn a{
-    color: aqua;
+
+
+.order button {
+    background-color:black;
     text-decoration: none;
     margin-right: 10px;
+    display: block;
+    margin: 0px auto;
+    height: 40px;
+    width: 150px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border-radius: 7px;
+    border: black;
+    
+    
     
 }
 .btn a:hover{
     text-decoration:underline;
     font-size: 20px;
 }
+.i-v video{
+    width: 100%;
+    height: 200%;
+    margin-top: 50px;
+
+}
+.i-v p{
+    color: rgb(224, 204, 177);
+    text-align: center;
+    margin-top: 30px;
+}
+.f-t {
+    background-color: antiquewhite;
+    color: rgb(63, 113, 113);
+    display: flex;
+    justify-content:space-between;
+    padding: 0px 40px;
+
+
+}
+.pic img {
+    width: 250px;
+    height: 180px;
+    padding-top: 50px;
+
+}
+.now h3{
+    color:goldenrod;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+.now h2{
+    margin-top: 30px;
+    color: black;
+    
+}
+
+.one  li a i {
+    margin-top: 20px;
+    
+}
+.one h3 {
+    color: black;
+    margin-top: 30px;
+}
+
+
+
+
+
 
     

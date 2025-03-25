@@ -2,9 +2,7 @@
     margin: 0;
     padding: 0;
 }
-body {
-    background-color:rgb(158, 241, 214)
-}
+
 
 
 .bg-d {
@@ -52,7 +50,7 @@ ul li input {
     width: 80px;
 }
 body{
-    background-color: darkseagreen;
+    background-color:rgb(237, 206, 221)
 }
 .about{
     width: 100%;
@@ -73,7 +71,7 @@ body{
 }
 .text-about h1 {
     font-size: xx-large;
-    color: aqua;
+    color: rgb(41, 112, 112);
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     margin-top: 80px;
@@ -84,8 +82,9 @@ body{
     margin-right: 30px;
     line-height: 25px;
     width: 620px;
-    color: purple;
+    color: rgb(22, 20, 22);
     margin-top: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 
 }
@@ -103,10 +102,50 @@ body{
     
 }
 .btn-about a{
-    color: #fff;
+    color:rgb(105, 105, 227);
     
 }
 .btn-about :hover{
     background: black;
     
 }
+.f-t {
+    background-color: rgb(242, 219, 189);
+    color: rgb(63, 113, 113);
+    display: flex;
+    justify-content:space-between;
+    padding: 0px 40px;
+    margin-top: 200px;
+
+
+}
+.pic img {
+    width: 250px;
+    height: 180px;
+    padding-top: 50px;
+
+}
+.now h3{
+    color:goldenrod;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+.now h2{
+    margin-top: 30px;
+    color: black;
+    
+}
+
+.one  li a i {
+    margin-top: 20px;
+    
+}
+.one h3 {
+    color: black;
+    margin-top: 30px;
+}
+
+
+
+
+

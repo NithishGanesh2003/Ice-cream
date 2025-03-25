@@ -2,9 +2,7 @@
     margin: 0;
     padding: 0;
 }
-body {
-    background-color:rgb(57, 19, 19)
-}
+
 
 
 .bg-d {
@@ -139,5 +137,40 @@ h1 {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+.f-t {
+    background-color: antiquewhite;
+    color: rgb(63, 113, 113);
+    display: flex;
+    justify-content:space-between;
+    padding: 0px 40px;
+
+
+}
+.pic img {
+    width: 250px;
+    height: 180px;
+    padding-top: 50px;
+
+}
+.now h3{
+    color:rgb(165, 125, 22);
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+.now h2{
+    margin-top: 30px;
+    color: black;
+    
+}
+
+.one  li a i {
+    margin-top: 20px;
+    
+}
+.one h3 {
+    color: black;
+    margin-top: 30px;
+}
+
 
 

@@ -1,7 +1,11 @@
 * {
     margin: 0;
     padding: 0;
+    
+   
 }
+
+
 
 .bg-d {
     background-color:rgb(202, 7, 105);
@@ -46,4 +50,39 @@ ul li input {
     padding: 3px;
     border-radius: 20px;
     width: 80px;
+}
+
+.two {
+    position: absolute;
+    transform: translate(175%, 65%);
+    padding-bottom: 20px;
+}
+.two h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    margin-top: 30px;
+
+}
+.two h3 {
+    text-align: center;
+    padding: 8px;
+
+}
+button {
+    display: block;
+    margin: 0px auto;
+    background-color: aquamarine;
+    font-style: italic;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+body {
+    background-image: url(images/contact-img.jpg);
+    height: 100vh;
+    display: block;
+    margin: 0px auto;
+    background-repeat: no-repeat;
+    background-position: center;
 }
